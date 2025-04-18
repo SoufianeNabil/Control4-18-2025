@@ -31,7 +31,7 @@ Ce projet est un mini-service de gestion de campagnes de dons et de transactions
 
 1. Cloner le dépôt GitHub :
 ```bash
-git clone https://github.com/votre-compte/votre-repo.git
+git clone https://github.com/SoufianeNabil/Control4-18-2025.git
 ```
 
 2. Ouvrir le projet avec **IntelliJ IDEA**.
